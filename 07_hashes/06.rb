@@ -2,23 +2,27 @@ words =  ['demo', 'none', 'tied', 'evil', 'dome', 'mode', 'live',
           'fowl', 'veil', 'wolf', 'diet', 'vile', 'edit', 'tide',
           'flow', 'neon']
 
-word_positions = []
-unique_words = []
+result = {}
 
-# For each word in [words]
-# Split each word into single letters, sort the letters, join, push onto [word_positions] (leave this unchanged)
 words.each do |word|
-  word_positions << word.split('').sort.join
+  # Split each word into individual letters,
+  # sort alplabetical, and rejoin them
+  key = word.split('').sort.join
+
+  # If the results hash has a key of the sorted letters,
+  # push the unsorted word into an array for that key
+  # Ex. {"abcd" => ["word1", "word2"]}
+  if result.has_key?(key)
+    result[key].push(word)
+  else
+    # If the results hash doesn't have a key of those sorted letters,
+    # create a new key and add that word to an array
+    # Ex. {"abcd" => ["word1"]}
+    result[key] = [word]
+  end
 end
 
-# Run .uniq! on [word_positions] to push onto [unique_words]
-unique_words << word_positions.uniq
-
-# For each word in [unique_words]
-unique_words.each do |word|
-
+# For each key, print out the values array
+result.each do |key, value|
+  p value
 end
-
-# Get the indexes for each word in [positions]
-# Push onto [anagrams] = words[index]
-# Return [anagrams]
