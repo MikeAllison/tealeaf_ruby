@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-03-05T14:30:17+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/03/05/1358237/firefox-37-to-check-security-certificates-via-blocklist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/03/05/1325258/source-2-will-also-be-free?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/05/0132211/inside-the-weird-world-of-3d-printed-body-parts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/03/05/0334203/ubisoft-has-new-video-game-designed-to-treat-lazy-eye?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/03/05/0430221/french-nuclear-industry-in-turmoil-as-manufacturer-buckles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/03/05/0338217/ftc-targets-group-that-made-billions-of-robocalls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/04/2314233/nasa-ames-reproduces-the-building-blocks-of-life-in-laboratory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/04/236232/would-you-need-a-license-to-drive-a-self-driving-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/04/2256252/massive-exoplanet-evolved-in-extreme-4-star-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/04/2254242/white-house-threatens-veto-over-epa-secret-science-bills?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/04/2047226/paul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/03/04/2038208/new-wolfenstein-game-announced-the-old-blood?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/03/04/2025253/spacexs-challenge-against-blue-origins-patent-fails-to-take-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/03/04/2031241/star-trek-fans-told-to-stop-spocking-canadian-5-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/03/04/2026247/drones-underwater-drones-on-wheels-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://it.slashdot.org/story/15/03/05/1358237/firefox-37-to-check-security-certificates-via-blocklist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Firefox 37 To Check Security Certificates Via Blocklist</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lEbg1AE7pTI/firefox-37-to-check-security-certificates-via-blocklist</link>
+<description>An anonymous reader writes The next version of Firefox will roll out a 'pushed' blocklist of revoked intermediate security certificates, in an effort to avoid using 'live' Online Certificate Status Protocol (OCSP) checks. The 'OneCRL' feature is similar to Google Chrome's CRLSet, but like that older offering, is limited to intermediate certificates, due to size restrictions in the browser. OneCRL will permit non-live verification on EV certificates, trading off currency for speed. Chrome pushes its trawled list of CA revocations every few hours, and Firefox seems set to follow that method and frequency. Both Firefox and Chrome developers admit that OCSP stapling would be the better solution, but it is currently only supported in 9% of TLS certificates.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Firefox+37+To+Check+Security+Certificates+Via+Blocklist%3A+http%3A%2F%2Fbit.ly%2F1GZboAl"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F03%2F05%2F1358237%2Ffirefox-37-to-check-security-certificates-via-blocklist%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/03/05/1358237/firefox-37-to-check-security-certificates-via-blocklist?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/03/05/1358237/firefox-37-to-check-security-certificates-via-blocklist?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7058527&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/lEbg1AE7pTI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-03-05T14:25:00+00:00</dc:date>
+<dc:subject>chrome</dc:subject>
+<slash:department>making-a-list-pushing-it-multiple-times</slash:department>
+<slash:section>it</slash:section>
+<slash:hit_parade>0,0,0,0,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/03/05/1358237/firefox-37-to-check-security-certificates-via-blocklist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/03/05/1325258/source-2-will-also-be-free?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Source 2 Will Also Be Free</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FNpdYncE5YQ/source-2-will-also-be-free</link>
+<description>jones_supa writes Valve is officially debuting its Source 2 engine at GDC this week alongside a host of other new technologies, and it's expected to launch at a competitive price: free. The news of its release coincides with Epic making Unreal Engine 4 free-to-download and Unity announcing a full-featured free version of Unity 5. Valve is making a show of marketing Source 2 not just to developers, but game creators of all stripes &amp;mdash; including Steam Workshop creators. "With Source 2, our focus is on increasing creator productivity," stated Valve engineer Jay Stelly in a press release confirming the launch. "Given how important user generated content is becoming, Source 2 is designed not for just the professional developer, but enabling gamers themselves to participate in the creation and development of their favorite games." It's worth noting that Valve also plans to release a version of Source 2 that's compatible with Vulkan, the open-standard graphics API that's considered heir apparent to OpenGL.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Source+2+Will+Also+Be+Free%3A+http%3A%2F%2Fbit.ly%2F1EQ5QsU"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F03%2F05%2F1325258%2Fsource-2-will-also-be-free%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/03/05/1325258/source-2-will-also-be-free?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/03/05/1325258/source-2-will-also-be-free?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7058293&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/FNpdYncE5YQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-03-05T13:46:00+00:00</dc:date>
+<dc:subject>graphics</dc:subject>
+<slash:department>second-one's-free</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>15</slash:comments>
+<slash:hit_parade>15,15,12,10,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/03/05/1325258/source-2-will-also-be-free?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/05/0132211/inside-the-weird-world-of-3d-printed-body-parts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Inside the Weird World of 3D Printed Body Parts</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BmpwVd17YJw/inside-the-weird-world-of-3d-printed-body-parts</link>
+<description>An anonymous reader writes Last November a news report in Russia Today sent a shudder of excitement through the tech blogs that cover 3D printing: an eccentric Russian provocateur claimed he would this month start printing functioning thyroids. Tech reporter Andrew Leonard set out to fact-check that claim, and along the way discovered an unlikely relationship between a Russian mad scientist and the U.S.'s most advanced, most respected 3d bioprinting companies&amp;mdash;TeVido, which aims to 3D print custom nipples, and Organovo, which sells samples of 3D printed liver tissue. In the field of 3D printing, the line between science fiction and peer-reviewed research is very, very thin.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Inside+the+Weird+World+of+3D+Printed+Body+Parts%3A+http%3A%2F%2Fbit.ly%2F1FddY4y"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F05%2F0132211%2Finside-the-weird-world-of-3d-printed-body-parts%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/05/0132211/inside-the-weird-world-of-3d-printed-body-parts?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/05/0132211/inside-the-weird-world-of-3d-printed-body-parts?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7054609&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/BmpwVd17YJw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-05T13:06:00+00:00</dc:date>
+<dc:subject>biotech</dc:subject>
+<slash:department>pick-a-spleen-any-spleen</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>27</slash:comments>
+<slash:hit_parade>27,27,19,18,6,2,2</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/05/0132211/inside-the-weird-world-of-3d-printed-body-parts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/03/05/0334203/ubisoft-has-new-video-game-designed-to-treat-lazy-eye?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ubisoft Has New Video Game Designed To Treat Lazy Eye</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/SIXwBnlucW4/ubisoft-has-new-video-game-designed-to-treat-lazy-eye</link>
+<description>wired_parrot writes Ubisoft, in partnership with McGill university, has developed a game designed to treat lazy eye. The game works as a treatment by training both eyes using different levels of contrast of red and blue that the patient sees through stereoscopic glasses. It is hopeful that the new treatment will bring a more effective way of addressing a condition that affects 1-5% of the population.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ubisoft+Has+New+Video+Game+Designed+To+Treat+Lazy+Eye%3A+http%3A%2F%2Fbit.ly%2F1G0DTwy"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F03%2F05%2F0334203%2Fubisoft-has-new-video-game-designed-to-treat-lazy-eye%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/03/05/0334203/ubisoft-has-new-video-game-designed-to-treat-lazy-eye?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/03/05/0334203/ubisoft-has-new-video-game-designed-to-treat-lazy-eye?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7054937&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/SIXwBnlucW4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-05T10:22:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>setting-things-straight</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>30</slash:comments>
+<slash:hit_parade>30,29,21,16,3,0,0</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/03/05/0334203/ubisoft-has-new-video-game-designed-to-treat-lazy-eye?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/03/05/0430221/french-nuclear-industry-in-turmoil-as-manufacturer-buckles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>French Nuclear Industry In Turmoil As Manufacturer Buckles</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7T6gaKZLTN8/french-nuclear-industry-in-turmoil-as-manufacturer-buckles</link>
+<description>mdsolar writes with bad news for France and its nuclear industry. "France's nuclear industry is in turmoil after the country's main reactor manufacturer, Areva, reported a loss for 2014 of 4.8 billion euros ($5.3 billion) &amp;mdash; more than its entire market value. The government of France, the world's most nuclear dependent country, has a 29% stake in Areva, which is among the biggest global nuclear technology companies. The loss puts its future &amp;mdash; and that of France as a leader in nuclear technology &amp;mdash; at risk. Energy and Environment Minister Segolene Royal said Wednesday she asked Areva and utility giant Electricite de France to work together on finding solutions, amid reports of a possible merger or other link-up. The government said in a statement that it's working closely with Areva to restructure and secure financing, and would 'take its responsibility as a shareholder' in future decisions about its direction. Areva reported Wednesday 1 billion euros in losses on three major nuclear projects in Finland and France, among other hits. Areva has lost money for years, in part linked to delays on those projects and to a global pullback from nuclear energy since the 2011 Fukushima accident."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=French+Nuclear+Industry+In+Turmoil+As+Manufacturer+Buckles%3A+http%3A%2F%2Fbit.ly%2F1Ei4sjM"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F03%2F05%2F0430221%2Ffrench-nuclear-industry-in-turmoil-as-manufacturer-buckles%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/03/05/0430221/french-nuclear-industry-in-turmoil-as-manufacturer-buckles?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/03/05/0430221/french-nuclear-industry-in-turmoil-as-manufacturer-buckles?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7055061&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/7T6gaKZLTN8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-05T08:06:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>bad-times</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>193</slash:comments>
+<slash:hit_parade>193,189,135,118,34,16,8</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/03/05/0430221/french-nuclear-industry-in-turmoil-as-manufacturer-buckles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/03/05/0338217/ftc-targets-group-that-made-billions-of-robocalls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FTC Targets Group That Made Billions of Robocalls</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/R0Bu584Q0fE/ftc-targets-group-that-made-billions-of-robocalls</link>
+<description>coondoggie writes Given the amount of time the FTC and others have put into curing the robocall problem, it is disheartening to hear that a group of companies for almost a year have been making billions of illegal robocalls. The Federal Trade Commission and 10 state attorneys general today said they have settled charges against a Florida-based cruise line company and seven other companies that averaged 12 million to 15 million illegal sales calls a day between October 2011 through July 2012, according to the joint complaint filed by the FTC and the states.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FTC+Targets+Group+That+Made+Billions+of+Robocalls%3A+http%3A%2F%2Fbit.ly%2F1G00AAO"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F03%2F05%2F0338217%2Fftc-targets-group-that-made-billions-of-robocalls%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/03/05/0338217/ftc-targets-group-that-made-billions-of-robocalls?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/03/05/0338217/ftc-targets-group-that-made-billions-of-robocalls?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7054953&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/R0Bu584Q0fE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-05T06:25:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>don't-call-me-bro</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,49,39,38,15,6,4</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/03/05/0338217/ftc-targets-group-that-made-billions-of-robocalls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/04/2314233/nasa-ames-reproduces-the-building-blocks-of-life-in-laboratory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NASA Ames Reproduces the Building Blocks of Life In Laboratory </title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/YAOV8VyO7wI/nasa-ames-reproduces-the-building-blocks-of-life-in-laboratory</link>
+<description>hypnosec writes "Scientists at NASA's Ames Research Center have reproduced non-biologically the three basic components of life found in both DNA and RNA &amp;mdash; uracil, cytosine, and thymine. For their experiment scientists deposited an ice sample containing pyrimidine &amp;mdash; a ring-shaped molecule made up of carbon and nitrogen &amp;mdash; on a cold substrate in a chamber with space-like conditions such as very high vacuum, extremely low temperatures, and irradiated the sample with high-energy ultraviolet photons from a hydrogen lamp. Researchers discovered that such an arrangement produces these essential ingredients of life. "We have demonstrated for the first time that we can make uracil, cytosine, and thymine, all three components of RNA and DNA, non-biologically in a laboratory under conditions found in space," said Michel Nuevo, research scientist at NASA's Ames Research Center, Moffett Field, California. "We are showing that these laboratory processes, which simulate conditions in outer space, can make several fundamental building blocks used by living organisms on Earth."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NASA+Ames+Reproduces+the+Building+Blocks+of+Life+In+Laboratory+%3A+http%3A%2F%2Fbit.ly%2F18S7M84"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F04%2F2314233%2Fnasa-ames-reproduces-the-building-blocks-of-life-in-laboratory%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/04/2314233/nasa-ames-reproduces-the-building-blocks-of-life-in-laboratory?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/04/2314233/nasa-ames-reproduces-the-building-blocks-of-life-in-laboratory?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7054287&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/YAOV8VyO7wI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-05T05:29:00+00:00</dc:date>
+<dc:subject>biotech</dc:subject>
+<slash:department>build-it-yourself</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>78</slash:comments>
+<slash:hit_parade>78,74,48,42,8,2,1</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/04/2314233/nasa-ames-reproduces-the-building-blocks-of-life-in-laboratory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/04/236232/would-you-need-a-license-to-drive-a-self-driving-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Would You Need a License To Drive a Self-Driving Car?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Cq5Uus74eJk/would-you-need-a-license-to-drive-a-self-driving-car</link>
+<description>agent elevator writes Not as strange a question as it seems, writes Mark Harris at IEEE Spectrum : "Self-driving cars promise a future where you can watch television, sip cocktails, or snooze all the way home. But what happens when something goes wrong? Today's drivers have not been taught how to cope with runaway acceleration, unexpected braking, or a car that wants to steer into a wall." The California DMV is considering something that would be similar to requirements for robocar test-driver training." Hallie Siegel points out this article arguing that we need to be careful about how many rules we make for self-driving cars before they become common. Governments and lawmakers across the world are debating how to best regulate autonomous cars, both for testing, and for operation. Robocar expert Brad Templeton argues that that there is a danger that regulations might be drafted long before the shape of the first commercial deployments of the technology take place.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Would+You+Need+a+License+To+Drive+a+Self-Driving+Car%3F%3A+http%3A%2F%2Fbit.ly%2F1FZkWdq"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F04%2F236232%2Fwould-you-need-a-license-to-drive-a-self-driving-car%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/04/236232/would-you-need-a-license-to-drive-a-self-driving-car?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/04/236232/would-you-need-a-license-to-drive-a-self-driving-car?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7054261&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/Cq5Uus74eJk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-05T02:55:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>easy-driver</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>252</slash:comments>
+<slash:hit_parade>252,251,207,188,26,11,6</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/04/236232/would-you-need-a-license-to-drive-a-self-driving-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/04/2256252/massive-exoplanet-evolved-in-extreme-4-star-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Massive Exoplanet Evolved In Extreme 4-Star System</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rSDJkOg6mlQ/massive-exoplanet-evolved-in-extreme-4-star-system</link>
+<description>astroengine writes "For only the second time, an exoplanet living with an expansive family of four stars has been revealed. The exoplanet, which is a huge gaseous world 10 times the mass of Jupiter, was previously known to occupy a 3-star system, but a fourth star (a red dwarf) has now been found, revealing quadruple star systems possessing planets are more common than we thought. "About four percent of solar-type stars are in quadruple systems, which is up from previous estimates because observational techniques are steadily improving," said co-author Andrei Tokovinin of the Cerro Tololo Inter-American Observatory in Chile. The whole 4-star family is collectively known as 30 Ari, located some 136 light-years from Earth &amp;mdash; in our interstellar backyard. The exoplanet orbits the primary star of the system once every 335 days. The primary star has a new-found binary partner (which the exoplanet does not orbit) and this pair are locked in an orbital dance with a secondary binary, separated by a distance of 1,670 astronomical unit (AU), where 1 AU is the average distance between the Earth and sun.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Massive+Exoplanet+Evolved+In+Extreme+4-Star+System%3A+http%3A%2F%2Fbit.ly%2F1wWvYeG"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F04%2F2256252%2Fmassive-exoplanet-evolved-in-extreme-4-star-system%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/04/2256252/massive-exoplanet-evolved-in-extreme-4-star-system?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/04/2256252/massive-exoplanet-evolved-in-extreme-4-star-system?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7054237&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/rSDJkOg6mlQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-05T00:53:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>four-is-better-than-one</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>39</slash:comments>
+<slash:hit_parade>39,34,19,15,7,3,1</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/04/2256252/massive-exoplanet-evolved-in-extreme-4-star-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/04/2254242/white-house-threatens-veto-over-epa-secret-science-bills?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>White House Threatens Veto Over EPA "Secret Science" Bills</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VhCcE_NCLYc/white-house-threatens-veto-over-epa-secret-science-bills</link>
+<description>sciencehabit writes The U.S. House of Representatives could vote as early as this week to approve two controversial, Republican-backed bills that would change how the U.S. Environmental Protection Agency (EPA) uses science and scientific advice to inform its policies. Many Democrats, scientific organizations, and environmental groups are pushing back, calling the bills thinly veiled attempts to weaken future regulations and favor industry. White House advisers announced that they will recommend that President Barack Obama veto the bills if they reach his desk in their current form.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=White+House+Threatens+Veto+Over+EPA+%22Secret+Science%22+Bills%3A+http%3A%2F%2Fbit.ly%2F1BTa9Ep"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F04%2F2254242%2Fwhite-house-threatens-veto-over-epa-secret-science-bills%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/04/2254242/white-house-threatens-veto-over-epa-secret-science-bills?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/04/2254242/white-house-threatens-veto-over-epa-secret-science-bills?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7054229&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/VhCcE_NCLYc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-05T00:09:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>no-sir-I-don't-like-it</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>323</slash:comments>
+<slash:hit_parade>323,317,247,212,67,30,18</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/04/2254242/white-house-threatens-veto-over-epa-secret-science-bills?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/04/2047226/paul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Paul Allen Helps Find Sunken Japanese WWII Battleship Musashi Off Philippines</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6leOYgwcSKU/paul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines</link>
+<description>mpicpp writes with news about the discovery of a sunken Japanese battleship by Paul Allen and a team of researchers. Microsoft co-founder and philanthropist Paul Allen and his research team have found a massive Japanese World War II battleship off the Philippines near where it sank more than 70 years ago, his representatives said Wednesday. The apparent discovery of the wreckage of the Musashi, one of the largest battleships in history, comes as the world marks the 70th anniversary of the war's end. Allen and the team aboard his superyacht M/Y Octopus found the ship on Sunday, more than eight years after their search began, Allen's publicity agency Edelman said in a statement. Detailed images captured by a high-definition camera mounted on the underwater probe confirmed the wreckage as that of the Musashi, it said. Japanese experts said they were eager to study the images to try to confirm the ship's identity. Allen's team found the battleship in the Sibuyan Sea, using an autonomous underwater vehicle in its third dive after narrowing down the search area using detailed undersea topographical data and other locator devices, the statement said. "The Musashi is truly an engineering marvel and as an engineer at heart, I have a deep appreciation for the technology and effort that went into its construction," Allen said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Paul+Allen+Helps+Find+Sunken+Japanese+WWII+Battleship+Musashi+Off+Philippines%3A+http%3A%2F%2Fbit.ly%2F1w4BnW3"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F04%2F2047226%2Fpaul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/04/2047226/paul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/04/2047226/paul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053905&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/6leOYgwcSKU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-04T23:25:00+00:00</dc:date>
+<dc:subject>japan</dc:subject>
+<slash:department>davy-jones'-locker</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>89</slash:comments>
+<slash:hit_parade>89,83,65,54,24,11,7</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/04/2047226/paul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/03/04/2038208/new-wolfenstein-game-announced-the-old-blood?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Wolfenstein Game Announced: The Old Blood</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/K6BpCgX_B1c/new-wolfenstein-game-announced-the-old-blood</link>
+<description>jones_supa writes Last year, Wolfenstein: The New Order was well received, and showed that old school shooters still can do extremely well in the current market and actually be a lot of fun. Now, Bethesda Softworks is already announcing a standalone prequel to The New Order, called Wolfenstein: The Old Blood. It's back to the roots for B.J. Blazkowicz, and you embark on a perilous journey "deep within Bavaria", with the goal of infiltrating the Castle Wolfenstein. Just like last years' game, The Old Blood has been developed by Swedish company MachineGames on the same platform including id Tech 5 engine. The release date is May 5th and the game will be available for PC, Xbox One, and PlayStation 4.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Wolfenstein+Game+Announced%3A+The+Old+Blood%3A+http%3A%2F%2Fbit.ly%2F1M6DXNs"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F03%2F04%2F2038208%2Fnew-wolfenstein-game-announced-the-old-blood%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/03/04/2038208/new-wolfenstein-game-announced-the-old-blood?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/03/04/2038208/new-wolfenstein-game-announced-the-old-blood?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053877&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/K6BpCgX_B1c" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-04T22:42:00+00:00</dc:date>
+<dc:subject>games</dc:subject>
+<slash:department>mein-leben</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>53</slash:comments>
+<slash:hit_parade>53,49,32,22,7,2,0</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/03/04/2038208/new-wolfenstein-game-announced-the-old-blood?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/03/04/2025253/spacexs-challenge-against-blue-origins-patent-fails-to-take-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>SpaceX's Challenge Against Blue Origins' Patent Fails To Take Off</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uE-0c2B3dew/spacexs-challenge-against-blue-origins-patent-fails-to-take-off</link>
+<description>speedplane writes As was previously discussed on Slashdot, back in September SpaceX challenged a patent owned by Blue Origin. The technology concerned landing rockets at sea. Yesterday, the judges in the case issued their opinion stating that they are unable to initiate review of the patent on the grounds brought by SpaceX. Although at first glance this would appear to be a Blue Origin win, looking closer, the judges explained that Blue Origin's patent lacks sufficient disclosure, effectively stating that the patent is invalid, but not on the specific grounds brought by SpaceX: "Because claim 14 lacks adequate structural support for some of the means-plus-function limitations, it is not amenable to construction. And without ascertaining the breadth of claim 14, we cannot undertake the necessary factual inquiry for evaluating obviousness with respect to differences between the claimed subject matter and the prior art." If SpaceX wants to move forward against Blue Origin, this opinion bodes well for them, but they will need to take their case in front of a different court.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=SpaceX's+Challenge+Against+Blue+Origins'+Patent+Fails+To+Take+Off%3A+http%3A%2F%2Fbit.ly%2F1BSZ9Hf"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F03%2F04%2F2025253%2Fspacexs-challenge-against-blue-origins-patent-fails-to-take-off%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/03/04/2025253/spacexs-challenge-against-blue-origins-patent-fails-to-take-off?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/03/04/2025253/spacexs-challenge-against-blue-origins-patent-fails-to-take-off?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053827&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/uE-0c2B3dew" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-04T21:50:00+00:00</dc:date>
+<dc:subject>patents</dc:subject>
+<slash:department>take-them-to-court</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>56</slash:comments>
+<slash:hit_parade>56,55,41,36,10,5,2</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/03/04/2025253/spacexs-challenge-against-blue-origins-patent-fails-to-take-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/03/04/2031241/star-trek-fans-told-to-stop-spocking-canadian-5-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>&lt;em&gt;Star Trek&lt;/em&gt; Fans Told To Stop "Spocking" Canadian $5 Bill</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6j56ucpqHH0/star-trek-fans-told-to-stop-spocking-canadian-5-bill</link>
+<description>bellwould writes The Toronto Sun is reporting that Bank of Canada executives are urging Star Trek fans to stop altering Wilfred Laurier's face on the Canadian $5 bill to look like Spock. Although not illegal to draw on the bills, a Bank of Canada spokesperson points out that the markings may reduce effectiveness of the security features or worse, the money may not be accepted.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Star+Trek+Fans+Told+To+Stop+%22Spocking%22+Canadian+%245+Bill%3A+http%3A%2F%2Fbit.ly%2F1aLJNZ4"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F03%2F04%2F2031241%2Fstar-trek-fans-told-to-stop-spocking-canadian-5-bill%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/03/04/2031241/star-trek-fans-told-to-stop-spocking-canadian-5-bill?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/03/04/2031241/star-trek-fans-told-to-stop-spocking-canadian-5-bill?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053843&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/6j56ucpqHH0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-04T21:26:00+00:00</dc:date>
+<dc:subject>canada</dc:subject>
+<slash:department>draw-it-on-and-prosper</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>198</slash:comments>
+<slash:hit_parade>198,194,137,123,23,14,13</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/03/04/2031241/star-trek-fans-told-to-stop-spocking-canadian-5-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/03/04/2026247/drones-underwater-drones-on-wheels-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Drones Underwater, Drones on Wheels (Video)</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/RLz5qsZn9cE/drones-underwater-drones-on-wheels-video</link>
+<description>Rocky Mountain Unmanned Systems seems to be primarily in the business of selling aerial 'copter drones ranging in price from sub-$100 up into $1000s. But there they were at the 2015 CES (Consumer Electronics Show), showing off a submarine drone and a wheeled drone. These products don't seem to be on the company's website or even on their Facebook page quite yet. Jon McBride, the person manning their CES booth, told Timothy these products would be around soon, as in February. But it looks like a bit of extra patience is in order, although you can contact Jon through the company's Facebook page (his suggestion) if you have an urgent need for an underwater or wheeled drone for your business or government agency -- or even just for fun.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Drones+Underwater%2C+Drones+on+Wheels+(Video)%3A+http%3A%2F%2Fbit.ly%2F1wVVUHv"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F03%2F04%2F2026247%2Fdrones-underwater-drones-on-wheels-video%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/03/04/2026247/drones-underwater-drones-on-wheels-video?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/03/04/2026247/drones-underwater-drones-on-wheels-video?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053833&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/RLz5qsZn9cE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Roblimo</dc:creator>
+<dc:date>2015-03-04T21:07:00+00:00</dc:date>
+<dc:subject>robot</dc:subject>
+<slash:department>drones-above-and-drones-below</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>18</slash:comments>
+<slash:hit_parade>18,18,10,7,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/03/04/2026247/drones-underwater-drones-on-wheels-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
